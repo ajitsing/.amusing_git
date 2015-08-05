@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+sh ~/.amusing_git/print_random_message.sh
