@@ -1,5 +1,7 @@
 # .amusing_git
 Print messages on running git commands
+#### To understand how it works, see the below documentation
+http://www.singhajit.com/print-custom-messages-after-executing-git-commands/
 
 You can add your own messages once cloned on your machine, to added messages edit ```messages``` file
 
