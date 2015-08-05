@@ -1,3 +1,5 @@
+#/bin/bash
+
 MESSAGES=~/.amusing_git/messages
 total_messages=$(cat $MESSAGES | wc -l)
 random_index=$[RANDOM % $total_messages + 1]
