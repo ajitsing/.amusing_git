@@ -14,7 +14,7 @@ printf "${YELLOW}ln -s ~/.amusing_git/hooks/post-commit ~/.git_template/hooks/po
 ln -s ~/.amusing_git/hooks/post-commit ~/.git_template/hooks/post-commit
 
 printf "${YELLOW}ln -s ~/.amusing_git/hooks/pre-rebase ~/.git_template/hooks/pre-rebase${NoColor}\n"
-ln -s ~/.amusing_git/hooks/post-commit ~/.git_template/hooks/post-commit
+ln -s ~/.amusing_git/hooks/pre-rebase ~/.git_template/hooks/pre-rebase
 
 printf "${GREEN}Now whenever you will initialize or clone a repository, you will be amused by git :)\n"
 printf "If you want to use amusing_git for existing repositories then do following..\n"
