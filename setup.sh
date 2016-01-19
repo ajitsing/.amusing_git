@@ -18,4 +18,4 @@ ln -s ~/.amusing_git/hooks/pre-rebase ~/.git_template/hooks/pre-rebase
 
 printf "${GREEN}Now whenever you will initialize or clone a repository, you will be amused by git :)\n"
 printf "If you want to use amusing_git for existing repositories then do following..\n"
-printf "./setup_existing_repo /path/to/your/repo${NoColor}\n"
+printf "./setup_existing_repo.sh /path/to/your/repo${NoColor}\n"
