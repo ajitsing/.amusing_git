@@ -1,4 +1,7 @@
 # .amusing_git
+## Deprecated!!
+This feature has been moved to https://github.com/ajitsing/amusing_git
+
 Print messages on running git commands
 #### To understand how it works, see the below documentation
 http://www.singhajit.com/print-custom-messages-after-executing-git-commands/
